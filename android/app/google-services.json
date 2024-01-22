@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682523626792",
+    "project_id": "roboticsclub-f6be6",
+    "storage_bucket": "roboticsclub-f6be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682523626792:android:f15c7f77d8f92f64b5d41d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRMBQey0WN9h05gWHLhQY7HtR24QkMjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
